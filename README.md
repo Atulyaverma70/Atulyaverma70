@@ -1,21 +1,17 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]((https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png))
+[![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)
 
 <h1 align="center">Hi 👋, I'm Atulya Verma</h1>
-<h3 align="center">Be Aware Be Safe !</h3>
+<h3 align="center">Be Aware Be Safe!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulyaverma70&label=Profile%20views&color=0e75b6&style=flat" alt="atulyaverma70" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **sudoku solver**
-
+- 🔭 I’m currently working on **Sudoku Solver**
 - 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **deep learning projects**
-
-- 💬 Ask me about **machine learning, deep learning, projects in C++, SQL & database management, Leetcode problem-solving techniques**
-
+- 👯 I’m looking to collaborate on **Deep Learning projects**
+- 💬 Ask me about **Machine Learning, Deep Learning, C++, SQL, Database Management, LeetCode Problem-Solving Techniques**
 - 📫 How to reach me **atulyaverma7229@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -50,9 +46,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Atulyaverma70"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Atulyaverma70" /></a></p><br><br>
 
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=atulyaverma70&show_icons=true&locale=en" alt="atulyaverma70" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulyaverma70&" alt="atulyaverma70" /></td>
-  </tr>
-</table>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=atulyaverma70&show_icons=true&locale=en" alt="Atulya Verma's GitHub Stats" width="49%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulyaverma70&" alt="Current Streak" width="49%"/>
+</div>
