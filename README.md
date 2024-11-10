@@ -47,6 +47,6 @@
 <p><a href="https://www.buymeacoffee.com/Atulyaverma70"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Atulyaverma70" /></a></p><br><br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=atulyaverma70&show_icons=true&locale=en" alt="Atulya Verma's GitHub Stats" width="49%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulyaverma70&" alt="Current Streak" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=atulyaverma70&show_icons=true&locale=en" alt="Atulya Verma's GitHub Stats" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulyaverma70" alt="Current Streak" width="45%"/>
 </div>
