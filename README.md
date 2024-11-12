@@ -1,6 +1,5 @@
-[![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)
 
-<h1 align="center">I'm Atulya Verma</h1>
+<h1 align="center">Hi 👋, I'm Atulya Verma</h1>
 <h3 align="center">Be Aware Be Safe!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
