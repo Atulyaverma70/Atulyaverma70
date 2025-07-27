@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Sudoku Solver**
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MLOPS**
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 - 💬 Ask me about **Machine Learning, Deep Learning, C++, SQL, Database Management, LeetCode Problem-Solving Techniques**
 - 📫 How to reach me **atulyaverma7229@gmail.com**
