@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **MLOPS**
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 - 💬 Ask me about **Machine Learning, Deep Learning, C++, SQL, Database Management, LeetCode Problem-Solving Techniques**
-- 📫 How to reach me **atulyaverma7229@gmail.com**
+- 📫 How to reach me **atulyaverma7068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
