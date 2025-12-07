@@ -35,17 +35,39 @@ I’m a **Computer Science undergraduate** specializing in **Artificial Intellig
 
 ### 🧰 Tech Stack  
 
-**Languages:**  
-`C++` · `Python` · `SQL`
+<h4>Languages</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/> 
+</p>
 
-**Frameworks & Libraries:**  
-`TensorFlow` · `Scikit-learn` · `Pandas` · `NumPy` · `Streamlit` · `Hugging Face` · `Librosa` · `OpenCV`
+<h4>Frameworks & Libraries</h4>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/> 
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/librosa.svg" alt="Librosa" width="40" height="40"/> 
+</p>
 
-**Tools & Platforms:**  
-`Azure` · `Docker` · `Git` · `CI/CD` · `AWS (EC2)`
+<h4>Tools & Platforms</h4>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732222.png" alt="CI/CD" width="40" height="40"/> 
+</p>
 
-**Concepts:**  
-`OOP` · `DSA` · `RDBMS` · `Machine Learning` · `Deep Learning` · `NLP` · `MLOps (Learning)`
+<h4>Concepts</h4>
+<p align="left">
+  🧩 OOP · 💾 RDBMS · 🧠 Machine Learning · 🧮 Deep Learning · 🗣️ NLP · ⚙️ DSA · 🚀 MLOps (Learning)
+</p>
 
 ---
 
@@ -112,13 +134,25 @@ I’m a **Computer Science undergraduate** specializing in **Artificial Intellig
 
 ---
 
-### 💬 Quote I Live By  
-<p align="center"><i>“The best way to predict the future is to create it.” — Alan Kay</i></p>
+### 💛 Support Me  
+
+<h3 align="left">☕ Buy Me a Coffee / Donate:</h3>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/Atulyaverma70" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+<br>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Atulyaverma70/Atulyaverma70/main/assets/upi_qr.jpg" alt="Atulya Verma UPI QR" width="300" />
+</p>
+
+<p><b>UPI ID:</b> atulyaverma7068-1@okaxis</p>
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Atulyaverma70"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Atulyaverma70" />
-</a></p>
-<br><br>
+### 💬 Quote I Live By  
+<p align="center"><i>“The best way to predict the future is to create it.” — Alan Kay</i></p>
